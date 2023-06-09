@@ -5,7 +5,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        string databaseFile = "C:\\Users\\J.Hollon\\AppData\\Local\\Microsoft\\Edge\\User Data\\Default\\WebAssistDatabase";
+        string databaseFile = "";
         DumpAllTableColumns(databaseFile);
     }
 
